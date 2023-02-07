@@ -1,4 +1,4 @@
-# NFT Sales Bot by [Metav3rse](https://twitter.com/themetav3rse?s=20&t=C5Hv_osg-0MF0uyPKSCxaA) and [MV3](https://twitter.com/mv3nft) fam
+# NFT Sales Bot by [LunaAI]
 
 ## About
 
