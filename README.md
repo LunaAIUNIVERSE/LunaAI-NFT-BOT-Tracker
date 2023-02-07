@@ -76,6 +76,4 @@ You can use the following links which will take you to the official developer do
 
 Do ensure that your Twitter Application has `Read and Write` permissions and that your Discord bot is added to the `guild`.
 
-In case you are still struggling feel free to reach out to [us](https://twitter.com/themetav3rse?s=20&t=C5Hv_osg-0MF0uyPKSCxaA).
-
-### See this bot live in action on [Twitter](https://twitter.com/MV3SalesBot)
+In case you are still struggling feel free to reach out to us.
