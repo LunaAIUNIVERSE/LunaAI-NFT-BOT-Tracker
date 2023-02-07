@@ -1,4 +1,4 @@
-# NFT Sales Bot by [LunaAI]
+# NFT Sales Bot
 
 ## About
 
