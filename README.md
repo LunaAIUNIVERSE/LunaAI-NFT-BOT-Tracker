@@ -22,9 +22,9 @@ Once the bot detects that a sale has been made, we capture multiple datapoints f
 ```
 {
     "value":"1.16",
-    "to":"0x28c6E39ee95a4073606E7Db07d3aA9D0d391149f",
-    "from":"0xD313093397F7C85ABF56f594A83Dfcd0B4fcC436",
-    "timestamp":{"$numberInt":"1650323563"},
+    "to":"address",
+    "from":"address",
+    "timestamp":{"$numberInt":"165073273"},
     "tokenId":"413"
 }
 ```
