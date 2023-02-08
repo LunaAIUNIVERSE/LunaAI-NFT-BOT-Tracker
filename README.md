@@ -25,7 +25,7 @@ Once the bot detects that a sale has been made, we capture multiple datapoints f
     "to":"address",
     "from":"address",
     "timestamp":{"$numberInt":"165073273"},
-    "tokenId":"413"
+    "tokenId":"016"
 }
 ```
 We then use the above record to store the transcation data in MongoDB, to create a new tweet and to send a message on a Discord channel.
